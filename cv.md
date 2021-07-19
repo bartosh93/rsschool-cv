@@ -32,3 +32,23 @@ Vladimir Bartosh
 * Technical education with programming essentials. Interested in web-development and related trends. Experience in measured data visualization and analyzing. Looking forward to develop myself in software development.
 
 ---
+# Education
+
+* Belarusian National Technical University
+
+* 5 years degree (2010 – 2015)
+
+* Information Technology’s and Robotics
+
+* Qualification: Electrical Engineer
+
+* JavaScript on [https://learn.javascript.ru/](https://learn.javascript.ru/)
+
+* Introduction to HTML and Learn CSS courses on [Codecademy](https://www.codecademy.com/) and [Htmlacademy](https://htmlacademy.ru/)
+
+---
+
+# English level
+
+* Pre-intermediate
+* Studying English for 19 years (school and university), self-education
