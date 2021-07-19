@@ -1,2 +1,2 @@
 # rsschool-cv
-cv
+https://bartosh93.github.io/rsschool-cv/cv
